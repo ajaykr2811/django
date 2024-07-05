@@ -41,7 +41,8 @@ INSTALLED_APPS = [
 
 EXTERNAL_APPS = [
     "home",
-    "polls"
+    "polls",
+    "grocery_store"
 ]
 
 INSTALLED_APPS.extend(EXTERNAL_APPS)
